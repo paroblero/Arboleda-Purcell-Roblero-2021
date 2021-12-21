@@ -1,5 +1,5 @@
 This repository contains everything that is necessary to replicate
-the construction of the database and the results presented in the figures
+the construction of the databases and the results presented in the figures
 and table of the draft of the article Arboleda, Purcell and Roblero (2021).
 
 "Final Databases" folder contain the final datasets: 'data_world_regions'
@@ -12,7 +12,7 @@ data processing and analyzes, and figures and table construction ('Replication C
 "Final Figures and Table" folder contains figures and table which should be obtained when running the code
 (some figures and the table have to be edited in excel)
 
-"Data Sources Folder" contains original dataset that were used to create de final databases.
+"Data Sources Folder" contains original the datasets that were used to create the final databases.
 They came from:
 
 Food-related GHG emissions data:
